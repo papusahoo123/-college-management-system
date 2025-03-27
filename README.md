@@ -1,2 +1,2 @@
 # -college-management-system
-Attended class time table
+Attended class time table.
